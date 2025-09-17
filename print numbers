@@ -1,0 +1,6 @@
+#print numbers
+n1=int(input("enter your first number"))
+n2=int(input("enter your second number"))
+print("First number:",n1)
+print("Second number:",n2)
+       
