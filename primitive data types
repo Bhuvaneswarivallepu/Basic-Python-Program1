@@ -1,0 +1,8 @@
+set={10,10,20,30}
+tuple=(10,20,30,30)
+list=['10','20','30']
+dict={"one":1,"two":2}
+print(set)
+print(tuple)
+print(list)
+print(dict)
