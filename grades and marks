@@ -1,0 +1,11 @@
+n=int(input("Enter the marks"))
+if(n>=90):
+    print("A grade and Excellent")
+elif(n>=70 and n<=80):
+    print("B grade and Good")
+elif(n>=50 and n<=70):
+    print("c grade and Better")
+elif(n>=40 and n<=50):
+    print("D grade and improvement is requried")
+else:
+    print("Fail")
