@@ -1,0 +1,5 @@
+n1=int(input("Enter your first number"))
+n2=int(input("Enter your second number"))
+n3=int(input("Enter your third number"))
+result=max(n1,n2,n3)
+print("Maximum of number:",result)
