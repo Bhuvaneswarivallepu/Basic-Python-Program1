@@ -1,0 +1,6 @@
+a=int(input("enter the int value"))
+b=float(input("enter the float value"))
+c=bool(input("enter the boolean value"))
+print("integer vaule:",a)
+print("float value:",b)
+print("boolean value:",c)
