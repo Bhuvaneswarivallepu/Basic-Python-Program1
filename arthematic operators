@@ -1,0 +1,7 @@
+#Arthematic operators
+a=10
+b=20
+print("Addition of Two numbers:",a+b)
+print("Subtraction of Two numbers:",a-b)
+print("Multiplication  of Two numbers:",a*b)
+print("divide by  Two numbers:",a/b)
